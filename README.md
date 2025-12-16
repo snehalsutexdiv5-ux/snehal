@@ -1,5 +1,5 @@
-  snehal
-👋 Hi, I'm a BCA Student
+
+👋 Hi, I'm a Snehal Thummar
 
 
 👨‍🎓 About Me
@@ -23,11 +23,12 @@ Motivated, curious, and dedicated to becoming a skilled software professional.
 - 🌱 Continuous learning and self-improvement
 
 
-📫 Contact Me
+📫 How to Reach Me
 - 📧 Email: snehalsutexdiv5@email.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/snehal-thummar-5899162b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - 🌐 GitHub: https://github.com/snehalsutexdiv5-ux
 
+[Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
   
   
