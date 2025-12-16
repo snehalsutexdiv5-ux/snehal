@@ -1,2 +1,33 @@
-# snehal
-i am bca student
+  snehal
+👋 Hi, I'm a BCA Student
+
+
+👨‍🎓 About Me
+I am a Bachelor of Computer Applications  student with a passion for programming and technology.  
+I enjoy learning new concepts, building projects, and improving my problem-solving skills.  
+Motivated, curious, and dedicated to becoming a skilled software professional.
+
+
+🛠️ Skills
+- Programming Languages: C, C++, Python  
+- Web Technologies: HTML, CSS, JavaScript  
+- Tools & Platforms: Git, GitHub, VS Code  
+- Core Skills: Problem Solving, Logical Thinking  
+- Currently Learning: Web Development & Data Structures
+
+
+🎯 Hobbies & Interests
+- 💻 Coding and exploring new technologies  
+- 📚 Reading tech blogs and learning resources  
+- 🎵 Listening to music  
+- 🌱 Continuous learning and self-improvement
+
+
+📫 Contact Me
+- 📧 Email: snehalsutexdiv5@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/snehal-thummar-5899162b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 🌐 GitHub: https://github.com/snehalsutexdiv5-ux
+
+
+  
+  
