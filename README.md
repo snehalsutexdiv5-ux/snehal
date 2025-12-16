@@ -1,5 +1,6 @@
 
 👋 Hi, I'm a Snehal Thummar
+https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif
 
 
 👨‍🎓 About Me
