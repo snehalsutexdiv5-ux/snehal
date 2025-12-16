@@ -2,13 +2,9 @@
   <span style="color:#4CAF50;">Snehal Thummar</span>
 </h1>
 
-<h3 align="center">
-  <span style="color:#2196F3;">Website Developer</span>
-</h3>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Website%20Developer&fontSize=50&fontAlignY=35)
 
-<h3 align="center">💻 Software Developer</h3>
 
 
 👨‍🎓 About Me
