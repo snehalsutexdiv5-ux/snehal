@@ -1,6 +1,5 @@
-
-👋 Hi, I'm a Snehal Thummar
 <h1 align="center">Snehal Thummar</h1>
+<h3 align="center">Software Developer</h3>
 
 
 
