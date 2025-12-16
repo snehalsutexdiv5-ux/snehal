@@ -1,5 +1,10 @@
-<h1 align="center">Snehal Thummar</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">
+  <span style="color:#4CAF50;">Snehal Thummar</span>
+</h1>
+
+<h3 align="center">
+  <span style="color:#2196F3;">Website Developer</span>
+</h3>
 
 
 
