@@ -1,6 +1,7 @@
 <h1 align="center">
-  <span style="color:#4CAF50;">Snehal Thummar</span>
+  <span style="color:#2196F3;">Hi, I am Snehal Thummar</span>
 </h1>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Website%20Developer&fontSize=50&fontAlignY=35)
